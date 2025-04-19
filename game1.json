@@ -7,6 +7,7 @@
                 "Change your status to one suggested by other players, or drink <range[2-5]>",
                 "Create a rule, rule is reset when this is spun again",
                 "Group shot, everyone drink <range[1-2]>",
+            	"ed chug 3 seconds, now",
                 "<local> must sit on <player>'s lap for one round, or drink <range[2-4]>",
                 "Take a drink and spin again!",
                 "Take a drink with <player>",
