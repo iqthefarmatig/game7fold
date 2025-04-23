@@ -1,13 +1,12 @@
 {
     "DeckName": "Jaks cocksuckery magnifique",
 
-    "DeckBy": "Cumminty",
+    "DeckBy": "Meowmeow",
         "Segments": [
                 "<local> must swap into an avatar of <player>'s choice, or drink <range[2-5]>",
                 "Change your status to one suggested by other players, or drink <range[2-5]>",
                 "Create a rule, rule is reset when this is spun again",
                 "Group shot, everyone drink <range[1-2]>",
-            	"ed chug 3 seconds, now",
                 "<local> must sit on <player>'s lap for one round, or drink <range[2-4]>",
                 "Take a drink and spin again!",
                 "Take a drink with <player>",
@@ -33,7 +32,7 @@
                 "Finish your drink",
                 "Parrot! Repeat everything <player> says for 1 round",
                 "Challenge <player> to a game of rock-paper-scissors, loser takes <range[2-4]> drinks",
-                "WATER TIME!! 💦💦💦 Everyone in the group takes <range[2-5]> shots of water!",
+                "WATER TIME!! 🍆👌💦💦💦 Everyone in the group takes <range[2-5]> shots of water!",
                 "Take <range[2-4]> drinks with <player>",
                 "Everyone but <local> drinks",
                 "Gift a shot",
@@ -50,6 +49,13 @@
                 "EVERYONE: Drink <range[1-3]> if you're straight",
                 "Drink 1 for every person in the room that you've lewded",
                 "EVERYONE: Drink <range[1-4]> if you have never shot a firearm",
+                "Banished, go sit in a corner till it's your turn again",
+                "Midgets drink <range[2-5]> (decide the fuck this means)",
+                "Go eat something, anything. You need it.",
+                "Spin <range[1-3]> times",
+                "EVERYONE: Drink <range[2-4]> if you dont have drivers license",
+                "Drink <range[1-3]> if you have not played minecraft this year",
+                "EVERYONE: Very Poor avatars drink <range[1-4]>",
                 ""
             ]
 }
